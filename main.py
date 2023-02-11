@@ -37,7 +37,7 @@ def get_images_url():
 
 time_start = time.time()
 browser = webdriver.Edge(service=EdgeService(EdgeChromiumDriverManager().install()))
-url = 'https://www.pinterest.com/ngntrgduc/girl/'
+url = '' # change url
 browser.get(url)
 browser.maximize_window()
 sleep(random.random() * 1 + 1)
