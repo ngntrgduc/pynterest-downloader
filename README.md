@@ -2,7 +2,7 @@
 Pinterest downloader written in Python.
 
 ## Features
-- Get all images of a public Pinterest board.
+- Get all images of a public Pinterest board, save to the `Downloaded` folder.
 - Write all images url to the `images_url.txt` file.
 - ~~Not 100% images can downloaded.~~
 
