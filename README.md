@@ -15,7 +15,7 @@ git clone https://github.com/ngntrgduc/pynterest-downloader.git
 ```
 pip install -r requirements.txt
 ```
-3. Change `url` in [main.py](https://github.com/ngntrgduc/pynterest-downloader/blob/master/main.py) to the board's url you want to download and run:
+3. Change `url` in [main.py](https://github.com/ngntrgduc/pynterest-downloader/blob/master/main.py#L40) to the board's url you want to download and run:
 ```py
 python main.py
 ```
